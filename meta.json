@@ -1,0 +1,14 @@
+{
+	"name": "KadenKat.KadenKatVariants",
+        "displayName": "8 Player TowerFall",
+	"version": "1.0.0",
+	"author": "KadenKat",
+	"description": "Brings 8 Player support to TowerFall.",
+	"dll": "KadenKatVariants.dll",
+        "dependencies": [
+             {
+                   "name": "FortRise",
+                   "version": "5.0.0"
+             }
+        ]
+}

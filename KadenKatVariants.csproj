@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>_8_Player_FortRise</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FortRise.Configuration" Version="1.5.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FortRise">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\TowerFall\FortRise\FortRise.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
