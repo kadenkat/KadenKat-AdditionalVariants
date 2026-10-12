@@ -1,6 +1,6 @@
 ﻿using FortRise;
 
-namespace ExampleMod;
+namespace KadenKat.AdditionalVariants;
 
 internal interface IRegisterable
 {
